@@ -16,4 +16,3 @@ case $choice in
 esac
 
 echo "Result is :$res"
-echo "None is printed"
