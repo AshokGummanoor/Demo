@@ -6,6 +6,7 @@ echo "1. add"
 echo "2. sub"
 echo "3. Divison"
 echo "4. Multiply"
+echo "5.Changes"
 read choice
 
 case $choice in
